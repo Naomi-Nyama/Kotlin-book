@@ -15,6 +15,6 @@ fun HomeAppBar() {
         title = {
         Text(text = "Compose book")
     },
-        colors = TopAppBarDefaults.topAppBarColors(containerColor = Color(0xFF6CC2FF))
+        colors = TopAppBarDefaults.topAppBarColors(containerColor = Color(0xFFD7E4F7))
     )
 }
